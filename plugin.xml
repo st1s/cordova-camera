@@ -38,7 +38,6 @@
     <source-file src="src/ios/lib/PEPhotoCropEditor/PEResizeControl.m" />
     <header-file src="src/ios/lib/PEPhotoCropEditor/UIImage+PECrop.h" />
     <source-file src="src/ios/lib/PEPhotoCropEditor/UIImage+PECrop.m" />
-    <resource-file src="src/ios/Lib/PEPhotoCropEditor/PEPhotoCropEditor.bundle" />
     <framework src="QuartzCore.framework" />
     <framework src="AVFoundation.framework" />
   </platform>
